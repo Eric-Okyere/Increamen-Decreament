@@ -1,0 +1,8 @@
+.component{
+  background-color: blue;
+  color: white;
+  text-align: center;
+  width: 80vh;
+  position: relative;
+  left: 20vh;
+}
